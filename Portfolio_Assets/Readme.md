@@ -9,7 +9,7 @@ Understanding the complex structure of the human form is the ultimate study in p
 
 | Eye Anatomy | Lip Variations | Hand Proportions |
 | :---: | :---: | :---: |
-| ![Eyes](Portfolio_Assets/Eyes.jpg) | ![Lips](Portfolio_Assets/lips.jpg) | ![Hands](Portfolio_Assets/Hands.jpg) |
+| ![Eyes](Portfolio_Assets/Eyes.jpeg) | ![Lips](Portfolio_Assets/lips.jpeg) | ![Hands](Portfolio_Assets/Hands.jpeg) |
 | *Observation Skill* | *Detailing* | *Precision* |
 
 ---
@@ -19,7 +19,7 @@ Before coding logic, I practiced structural logic. These technical sketches demo
 
 | Pant & Trouser Types | Neckline & Sleeve Logic | Texture & Light Study |
 | :---: | :---: | :---: |
-| ![Pants](Portfolio_Assets/Pants.jpg) | ![Neckline](Portfolio_Assets/Neckline.jpg) | ![Shaded Object](Portfolio_Assets/Shaded_Object.jpg) |
+| ![Pants](Portfolio_Assets/Pants.jpeg) | ![Neckline](Portfolio_Assets/Neckline.jpeg) | ![Shaded Object](Portfolio_Assets/Shaded_Object.jpeg) |
 
 ---
 
@@ -28,7 +28,7 @@ Translating raw sketches into structured fashion silhouettes.
 
 | Bridal/Traditional | Aesthetic Wear | Western Formals |
 | :---: | :---: | :---: |
-| ![Lehnga](Portfolio_Assets/Final_dress_lehnga.jpg) | ![Aesthetic](Portfolio_Assets/Final_dress_Aesthetic.jpg) | ![Formals](Portfolio_Assets/Final_dress_Formals.jpg) |
+| ![Lehnga](Portfolio_Assets/Final_dress_lehnga.jpeg) | ![Aesthetic](Portfolio_Assets/Final_dress_Aesthetic.jpeg) | ![Formals](Portfolio_Assets/Final_dress_Formals.jpeg) |
 
 ---
 
