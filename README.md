@@ -36,6 +36,6 @@ Currently pursuing my **BTech in AIML**, I focus on **AI Safety, Model Auditing,
 ## 📬 Let's Connect!
 I'm always open to discussing AI Ethics, Creative Design, or interesting Hackathon collaborations.
 
-* **GitHub:** []
+* **GitHub:** [https://github.com/gargial241075-art]
 * **Location:** Jabalpur, MP, India
 *
